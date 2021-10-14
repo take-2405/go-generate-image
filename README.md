@@ -1,2 +1,1 @@
-# go-generate-image
-goで画像を生成する
+# Image-generation-janoanese-go
